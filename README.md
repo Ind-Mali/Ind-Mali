@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="700" height="250" src="https://s40424.pcdn.co/in/wp-content/uploads/2022/04/why-become-data-scientist.jpg">
+<img align="center" alt="Coding" width="850" height="250" src="https://s40424.pcdn.co/in/wp-content/uploads/2022/04/why-become-data-scientist.jpg">
 
 <h1 align="center">Hi 👋, I'm Mehmet Ali YILMAZ</h1>
 <h3 align="center">A passionate data analysis from Turkey</h3>
