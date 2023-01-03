@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif">
+<img align="center" alt="Coding" width="800" src="https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif">
 
 <h1 align="center">Hi 👋, I'm Mehmet Ali YILMAZ</h1>
 <h3 align="center">A passionate data analysis from Turkey</h3>
