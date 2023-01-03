@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet Ali YILMAZ</h1>
 <h3 align="center">A passionate data analyst from Turkey</h3>
-<img align="right" alt="Coding" src="[https://s40424.pcdn.co/in/wp-content/uploads/2022/04/why-become-data-scientist.jp](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)">
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 
 
