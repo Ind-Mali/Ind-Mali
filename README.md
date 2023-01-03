@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="512px"/>
+
 # 💫 About Me:
 I am currently learning Data Analysis and I am participate techcareer.net Data Analaysis bootcamp.
 
@@ -14,9 +16,6 @@ I am currently learning Data Analysis and I am participate techcareer.net Data A
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ind-Mali&icon=5&color=2)](https://visitcount.itsvg.in)
